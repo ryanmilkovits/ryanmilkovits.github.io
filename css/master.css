@@ -1,5 +1,5 @@
 body {
-  background-image: url("img/background.png");
+  background-image: url("img/whitney.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -24,7 +24,7 @@ div.jumbotron {
   font-size: 1.3em;
   padding: 15px 50px;
 }
-i.fa-code, i.fa-envelope-o, i.fa-twitter, i.fa-github, i.fa-codepen, i.fa-fire {
+i.fa-code, i.fa-envelope-o, i.fa-facebook, i.fa-github, i.fa-codepen, i.fa-fire {
   font-size: 1.7em;
   padding: 0 5px;
 }
