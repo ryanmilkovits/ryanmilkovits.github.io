@@ -67,8 +67,8 @@ div.projectView div.disabled {
 }
 div.container img.img-circle {
   float: left;
-  height: 180px;
-  width: 180px;
+  height: 200px;
+  width: 200px;
   box-shadow: 0 0 1px #9d9d9d;
 }
 div.row div.panel-default ul.list-group li.list-group-item {
