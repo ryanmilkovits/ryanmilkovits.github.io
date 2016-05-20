@@ -29,8 +29,9 @@ i.fa-code, i.fa-facebook, i.fa-github, i.fa-linkedin-square, #chess-icon {
   padding: 0 5px;
   color: #0066ff;
 }
-i.fa-code:hover, i.fa-facebook:hover, i.fa-github:hover, i.fa-linkedin-square:hover, 
-#chess-icon:hover, div.contactOptions a:hover { 
+div.contactOptions i.fa-code:hover, div.contactOptions i.fa-facebook:hover, 
+div.contactOptions i.fa-github:hover, div.contactOptions i.fa-linkedin-square:hover, 
+div.contactOptions #chess-icon:hover, div.contactOptions a:hover { 
   color: #fff !important; 
 }
 i.fa-code:visited, i.fa-facebook:visited, i.fa-github:visited, i.fa-linkedin-square:visited, 
