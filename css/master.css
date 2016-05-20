@@ -14,8 +14,8 @@ div.jumbotron {
   position: relative;
   top: 50px;
   text-align: center;
-  background-color: rgba(29, 29, 29, 0.8);
-  box-shadow: 0 0 2px #1D1D1D;
+  background-color: #101010;
+  /*box-shadow: 0 0 2px #1D1D1D;*/
 }
 .navbar-fixed-top {
   background-color: #1D1D1D;
@@ -29,10 +29,12 @@ i.fa-code, i.fa-facebook, i.fa-github, i.fa-linkedin-square, #chess-icon {
   padding: 0 5px;
   color: #0066ff;
 }
-div.contactOptions a:hover { 
+i.fa-code:hover, i.fa-facebook:hover, i.fa-github:hover, i.fa-linkedin-square:hover, 
+#chess-icon:hover, div.contactOptions a:hover { 
   color: #fff !important; 
 }
-div.contactOptions a:visited { 
+i.fa-code:visited, i.fa-facebook:visited, i.fa-github:visited, i.fa-linkedin-square:visited, 
+#chess-icon:visited, div.contactOptions a:visited { 
   color: #551A8B !important; 
 }
 .navbar-nav li {
