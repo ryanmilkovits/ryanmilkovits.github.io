@@ -1,0 +1,90 @@
+body {
+  background-image: url("img/whitney.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: #757373;
+}
+div.white-text {
+  color: white;
+}
+div.jumbotron {
+  margin-top: 50px;
+  position: relative;
+  top: 50px;
+  text-align: center;
+  background-color: #101010;
+  /*box-shadow: 0 0 2px #1D1D1D;*/
+}
+.navbar-fixed-top {
+  background-color: #1D1D1D;
+}
+.btn-lg {
+  font-size: 1.3em;
+  padding: 15px 50px;
+}
+i.fa-code, i.fa-facebook, i.fa-github, i.fa-linkedin-square, i#chess-icon {
+  font-size: 1.7em;
+  padding: 0 5px;
+  color: #0066ff;
+}
+div.contactOptions i.fa-code:hover, div.contactOptions i.fa-facebook:hover, 
+div.contactOptions i.fa-github:hover, div.contactOptions i.fa-linkedin-square:hover, 
+div.contactOptions a#chess-icon:hover, div.contactOptions a:hover, a.social-buttons:hover { 
+  color: #fff !important; 
+}
+/*i.fa-code:visited, i.fa-facebook:visited, i.fa-github:visited, i.fa-linkedin-square:visited, 
+#chess-icon:visited, div.contactOptions a:visited { 
+  color: #551A8B !important; 
+}*/
+.navbar-nav li {
+  border-bottom: 2px solid #1D1D1D;
+  transition: 0.3s linear;
+}
+li:hover {
+  border-bottom: 2px solid #757373;
+}
+.btn {
+  transition: 0.2s linear;
+}
+.btn:hover {
+  color: white !important;
+}
+.btn-primary:hover {
+  font-size: 0.7em;
+}
+div.projectView {
+  width: 100%;
+  background: #9d9d9d;
+  border: 1px solid #9d9d9d;
+  border-radius: 5px;
+}
+div.row div.col-md-4 div.thumbnail img.placeholderImage {
+  width: 100%;
+  height: 157px;
+  padding: 0;
+  margin: 0;
+}
+div.projectView a img {
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+}
+div.projectView div.disabled {
+  opacity: 0.8;
+  height: 425px;
+}
+div.container img.img-circle {
+  float: left;
+  height: 200px;
+  width: 200px;
+  box-shadow: 0 0 1px #9d9d9d;
+}
+div.row div.panel-default ul.list-group li.list-group-item {
+  color: black;
+}
+.fa-html5, .fa-css3, .icon-javascript-alt {
+  font-size: 48px;
+  padding: 5px 20px;
+}
