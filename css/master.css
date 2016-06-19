@@ -49,7 +49,7 @@ li:hover {
   transition: 0.2s linear;
 }
 .btn:hover {
-  color: white;
+  color: white !important;
 }
 .btn-primary:hover {
   font-size: 0.7em;
