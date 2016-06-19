@@ -89,3 +89,7 @@ div.row div.panel-default ul.list-group li.list-group-item {
   font-size: 48px;
   padding: 5px 20px;
 }
+
+.resume-download-image {
+  max-width: 50%;
+}
