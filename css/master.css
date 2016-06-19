@@ -31,7 +31,7 @@ i.fa-code, i.fa-facebook, i.fa-github, i.fa-linkedin-square, #chess-icon {
 }
 div.contactOptions i.fa-code:hover, div.contactOptions i.fa-facebook:hover, 
 div.contactOptions i.fa-github:hover, div.contactOptions i.fa-linkedin-square:hover, 
-div.contactOptions #chess-icon:hover, div.contactOptions a:hover, .social-buttons { 
+div.contactOptions #chess-icon:hover, div.contactOptions a:hover, a.social-buttons:hover { 
   color: #fff !important; 
 }
 i.fa-code:visited, i.fa-facebook:visited, i.fa-github:visited, i.fa-linkedin-square:visited, 
