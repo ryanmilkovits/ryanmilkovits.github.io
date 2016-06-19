@@ -36,7 +36,7 @@ div.contactOptions #chess-icon:hover, div.contactOptions a:hover {
 }
 i.fa-code:visited, i.fa-facebook:visited, i.fa-github:visited, i.fa-linkedin-square:visited, 
 #chess-icon:visited, div.contactOptions a:visited { 
-  color: #551A8B !important; 
+  /*color: #551A8B !important; */
 }
 .navbar-nav li {
   border-bottom: 2px solid #1D1D1D;
