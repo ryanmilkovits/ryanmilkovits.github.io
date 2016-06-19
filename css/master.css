@@ -24,7 +24,14 @@ div.jumbotron {
   font-size: 1.3em;
   padding: 15px 50px;
 }
-i.fa-code, i.fa-facebook, i.fa-github, i.fa-linkedin-square, i.chess-icon {
+i.fa-code, i.fa-facebook, i.fa-github, i.fa-linkedin-square {
+  font-size: 1.7em;
+  padding: 0 5px;
+  /*color: #0066ff;*/
+} 
+
+i.chess-icon {
+  font-family: Quivira, "Arial Unicode MS", Symbola, "Everson Mono";
   font-size: 1.7em;
   padding: 0 5px;
   /*color: #0066ff;*/
