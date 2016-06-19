@@ -24,11 +24,12 @@ div.jumbotron {
   font-size: 1.3em;
   padding: 15px 50px;
 }
-i.fa-code, i.fa-facebook, i.fa-github, i.fa-linkedin-square, i#chess-icon {
+i.fa-code, i.fa-facebook, i.fa-github, i.fa-linkedin-square, i.chess-icon {
   font-size: 1.7em;
   padding: 0 5px;
-  color: #0066ff;
+  /*color: #0066ff;*/
 }
+
 /*div.contactOptions i.fa-code:hover, div.contactOptions i.fa-facebook:hover, 
 div.contactOptions i.fa-github:hover, div.contactOptions i.fa-linkedin-square:hover, 
 div.contactOptions i.chess-icon:hover, div.contactOptions a:hover, div.contactOptions span:hover { 
