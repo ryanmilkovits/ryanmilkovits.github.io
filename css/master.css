@@ -29,11 +29,11 @@ i.fa-code, i.fa-facebook, i.fa-github, i.fa-linkedin-square, i#chess-icon {
   padding: 0 5px;
   color: #0066ff;
 }
-div.contactOptions i.fa-code:hover, div.contactOptions i.fa-facebook:hover, 
+/*div.contactOptions i.fa-code:hover, div.contactOptions i.fa-facebook:hover, 
 div.contactOptions i.fa-github:hover, div.contactOptions i.fa-linkedin-square:hover, 
 div.contactOptions i.chess-icon:hover, div.contactOptions a:hover, div.contactOptions span:hover { 
   color: #fff !important; 
-}
+}*/
 /*i.fa-code:visited, i.fa-facebook:visited, i.fa-github:visited, i.fa-linkedin-square:visited, 
 #chess-icon:visited, div.contactOptions a:visited { 
   color: #551A8B !important; 
