@@ -32,8 +32,8 @@ i.fa-code, i.fa-facebook, i.fa-github, i.fa-linkedin-square {
 
 i.chess-icon {
   /*background-image: url(css/img/chess_knight.svg);*/
-  /*font-family: Quivira, "Arial Unicode MS", Symbola, "Everson Mono";
-  font-size: 1.7em;*/
+  /*font-family: Quivira, "Arial Unicode MS", Symbola, "Everson Mono";*/
+  font-size: 1.7em;
   padding: 0 5px;
   color: #0066ff;
 }
