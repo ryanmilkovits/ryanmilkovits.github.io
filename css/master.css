@@ -101,3 +101,14 @@ div.row div.panel-default ul.list-group li.list-group-item {
 .resume-download-image {
   max-width: 95%;
 }
+
+/* 404 styling */
+.error-template {
+  padding: 40px 15px;text-align: center;
+}
+.error-actions {
+  margin-top:15px;margin-bottom:15px;
+}
+.error-actions .btn {
+  margin-right:10px; 
+}
