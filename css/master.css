@@ -38,6 +38,21 @@ i.chess-icon {
   color: #0066ff;
 }
 
+i.soundcloud-icon {  
+  /*background-image: url(css/img/chess_knight.svg);*/
+  /*font-family: Quivira, "Arial Unicode MS", Symbola, "Everson Mono";*/
+  font-size: 1.7em;
+  padding: 0 5px;
+  color: #0066ff;
+}
+
+i.youtube-icon {  
+  /*background-image: url(css/img/chess_knight.svg);*/
+  /*font-family: Quivira, "Arial Unicode MS", Symbola, "Everson Mono";*/
+  font-size: 1.7em;
+  padding: 0 5px;
+  color: #0066ff;
+}
 /*div.contactOptions i.fa-code:hover, div.contactOptions i.fa-facebook:hover, 
 div.contactOptions i.fa-github:hover, div.contactOptions i.fa-linkedin-square:hover, 
 div.contactOptions i.chess-icon:hover, div.contactOptions a:hover, div.contactOptions span:hover { 
