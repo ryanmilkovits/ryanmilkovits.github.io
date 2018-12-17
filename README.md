@@ -8,13 +8,13 @@ ryanmilkovits.github.io
 A Static Personal Website 
 
 ## Linked Accounts: 
-GitHub, LinkedIn, Chess, Twitter
+GitHub, LinkedIn, Chess, Instagram, Facebook, Twitter, and SoundCloud
 
 ## Projects in Gallery: 
 n/a
 
 ## Most Recent Edit: 
-6/15/18
+12/17/18
 
 ## Critical Bugs:
 n/a
