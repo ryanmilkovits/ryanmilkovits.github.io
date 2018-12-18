@@ -117,8 +117,9 @@ div.row div.panel-default ul.list-group li.list-group-item {
   max-width: 95%;
 }
 
-.chessProf {
-  max-width: 75%;
+img.chessProf {
+  max-width: 55%;
+  height: 20px;
 }
 
 /* 404 styling */
