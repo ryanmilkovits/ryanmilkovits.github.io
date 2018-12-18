@@ -117,6 +117,10 @@ div.row div.panel-default ul.list-group li.list-group-item {
   max-width: 95%;
 }
 
+.chessProf {
+  max-width: 75%;
+}
+
 /* 404 styling */
 .error-template {
   padding: 40px 15px;text-align: center;
